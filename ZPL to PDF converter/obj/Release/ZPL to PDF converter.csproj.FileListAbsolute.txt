@@ -1,0 +1,16 @@
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\bin\Release\x64\pdfium.dll
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\bin\Release\x86\pdfium.dll
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\bin\Release\ZPL to PDF converter.exe.config
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\bin\Release\ZPL to PDF converter.exe
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\bin\Release\ZPL to PDF converter.pdb
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\bin\Release\PdfiumViewer.dll
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\bin\Release\PdfiumViewer.xml
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\bin\Release\nl\PdfiumViewer.resources.dll
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\obj\Release\ZPL to PDF converter.csproj.AssemblyReference.cache
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\obj\Release\ZPL_to_PDF_converter.Form1.resources
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\obj\Release\ZPL_to_PDF_converter.Properties.Resources.resources
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\obj\Release\ZPL to PDF converter.csproj.GenerateResource.cache
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\obj\Release\ZPL to PDF converter.csproj.CoreCompileInputs.cache
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\obj\Release\ZPL to PDF converter.csproj.CopyComplete
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\obj\Release\ZPL to PDF converter.exe
+C:\Origim\ZPL to PDF converter\ZPL to PDF converter\obj\Release\ZPL to PDF converter.pdb
